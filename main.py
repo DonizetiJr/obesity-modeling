@@ -350,7 +350,7 @@ st.markdown(
     """
 <div class="hero">
   <div class="title">📊 Painel ML — Obesidade</div>
-  <p class="subtitle">Predição em tempo real e dashboard exploratório. Layout minimalista, pronto para apresentação.</p>
+  <p class="subtitle">Predição em tempo real e dashboard exploratório.</p>
   <div class="badges">
     <div class="badge">🧠 Modelo: Random Forest</div>
     <div class="badge">⚡ Atualização automática</div>
